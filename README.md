@@ -1,5 +1,5 @@
 - 👋 Oii, me chamo @LucasTrombim
-- 👀 Eu me interesso no desenvolvimento com as tecnologias mais atuais
+- 👀 Eu me interesso no desenvolvimento com as novas tecnologias
 - 🌱 No momento estou aprendendo o universo de React e React Native
 - 💞️ Procuro oportunidade em todo lugar
 - 📫 Me chame pelo email para qualquer contato, ltrombim1@gmail.com
